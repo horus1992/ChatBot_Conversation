@@ -1,4 +1,4 @@
-# Chatbot UI Lite
+# Chatbot Conversation UI
 
 A simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS.
 
@@ -6,7 +6,7 @@ A simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, 
 
 ## Features
 
-Chatbot UI Lite provides a simple, fully-functional chat interface that you can use to start building your own chatbot apps powered by OpenAI.
+Chatbot Conversation UI provides a simple, fully-functional chat interface that you can use to start building your own chatbot apps powered by OpenAI.
 
 It has everything you need to hit the ground running.
 
